@@ -2,3 +2,6 @@
 
 Este repositorio será utilizado para practicar la consulta
 y análisis del historial de Git.
+## Propósito
+
+Aprender a consultar y comprender el historial de un repositorio.
