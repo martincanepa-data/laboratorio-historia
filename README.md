@@ -13,3 +13,8 @@ Aprender a consultar y comprender el historial de un repositorio.
 ## Estado
 
 El laboratorio se encuentra en desarrollo.
+
+## Estado
+
+Repositorio utilizado para practicar la comunicación
+entre Git y GitHub.
