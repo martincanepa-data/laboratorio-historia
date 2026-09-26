@@ -18,3 +18,13 @@ El laboratorio se encuentra en desarrollo.
 
 Repositorio utilizado para practicar la comunicación
 entre Git y GitHub.
+
+# Practica Markdown
+
+## Nueva seccion
+
+### Subseccion
+- git
+    - repositorios
+    - commits
+    - historial
